@@ -1,0 +1,11 @@
+{
+  "name": "pastel-pink-theme",
+  "owner": { "name": "cu454727" },
+  "plugins": [
+    {
+      "name": "pastel-pink",
+      "source": "./pastel-pink-theme/plugins/pastel-pink",
+      "description": "차분한 뉴트럴 바탕에 파스텔 핑크 포인트를 더한 Claude 화면 테마"
+    }
+  ]
+}
